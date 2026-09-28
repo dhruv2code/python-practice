@@ -1,2 +1,2 @@
-name = input("dhruv koli")
-print(name)
+name = int(input("Enter your name: "))
+print("Hello, " + name + "!")
